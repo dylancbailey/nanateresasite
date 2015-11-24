@@ -22,10 +22,12 @@ body {
 
 .about-button {
   margin-right: 3%;
+  margin-left: 2.5%;
 }
 
 .menu-button {
   margin-left: 3%;
+  margin-right: 2.5%;
 }
 
 span {
